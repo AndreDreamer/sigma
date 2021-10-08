@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sigma</string>
+
+    <string name="loadBtn">Load</string>
+    <string name="saveBtn">Save</string>
+    <string name="asyncBtn">AsyncTask</string>
+    <string name="handlerBtn">Handler</string>
+
+    <string name="savedPhotoText">Photo successfully saved</string>
+    <string name="loadPhotoText">Please, load a photo</string>
+
+</resources>
